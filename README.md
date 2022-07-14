@@ -16,6 +16,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  We can talk about programming all the day.
 
-![Vidhanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vidhanshu&show_icons=true&hide_border=true&title_color=fff&icon_color=fc531f&text_color=fff&bg_color=121212&include_all_commits=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhanshu&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhanshu&layout=compact)](https://github.com/vidhanshu/github-readme-stats)

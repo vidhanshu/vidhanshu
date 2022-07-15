@@ -44,6 +44,19 @@
     </a>&nbsp;&nbsp;
 </p>&nbsp;&nbsp;
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhanshu&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+## 🔎 Github Stats
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=vidhanshu&show_icons=true&theme=apprentice&count_private=true&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=vidhanshu&theme=react&hide_border=true" width = 400>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhanshu&hide=html,cmake,css,scss,powershell,assembly&theme=apprentice&langs_count=10&layout=compact&hide_border=true" width = 400>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vidhanshu&hide_border=true&theme=react" width = 420 >
+ 
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhanshu&layout=compact)](https://github.com/vidhanshu/github-readme-stats)
+ <img src="https://activity-graph.herokuapp.com/graph?username=vidhanshu&theme=monokai&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+
+
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=vidhanshu&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="vidhanshu' profile views" />
+</p>

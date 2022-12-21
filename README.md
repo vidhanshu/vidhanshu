@@ -49,10 +49,12 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=vidhanshu&theme=react&hide_border=true" width = 400>
 </p>
 
- <img src="https://activity-graph.herokuapp.com/graph?username=vidhanshu&theme=monokai&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
-
-
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=vidhanshu&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="vidhanshu' profile views" />
 </p>
+
+## HACKTOBERFEST 22 BADGES
+
+<img src="https://user-images.githubusercontent.com/84308141/208924318-dff4d7ca-65d7-41c5-bc7e-5c26819671a1.png" width="600"/>
+

@@ -1,6 +1,7 @@
 # Hi, I am Vidhanshu 👋
-
-<img src="https://c.tenor.com/pVwOAuOdI4MAAAAM/jim-carrey-bruce-almighty.gif" alt="Developer" />
+<h1>
+    <a href="https://vidhanshu.vercel.app">Portfolio website</a>
+</h1>
 
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning NodeJS , DSA and Competitive Programming
@@ -12,6 +13,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-vidhanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vidhanshu-borade-325741210)](https://www.linkedin.com/in/vidhanshu-borade-325741210/)
 [![Twitter Badge](https://img.shields.io/badge/-@vidhanshuborad3-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Vidhanshuborad3)](https://twitter.com/Vidhanshuborad3)
 [![Gmail Badge](https://img.shields.io/badge/-vidhanshu7218@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=vidhanshu7218@gmail.com)](mailto:vidhanshu7218@gmail.com)
+[![Leet Code](https://img.shields.io/badge/-vidhanshu-db4437?style=flat-square&logo=leetcode&labelColor=gray&link=https://leetcode.com/vidhanshu)](https://leetcode.com/vidhanshu)
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  We can talk about programming all the day.
